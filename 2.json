@@ -1,8 +1,10 @@
-[
+[  
   {
-    "text": "Exercitation eu officia quis enim qui ad anim irure."
-  },
-  {
-    "text": "Nisi enim magna ullamco irure veniam enim elit."
+    "attachment": {
+      "type": "image",
+      "payload": {
+        "url": "https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xfl1/t31.0-8/14068513_1767697693444215_3568212590846394505_o.jpg"
+      }
+    }
   }
 ]
